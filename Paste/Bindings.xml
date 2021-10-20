@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="PASTE" header="PASTE">
+    Paste:ToggleWindow();
+  </Binding>
+</Bindings>
